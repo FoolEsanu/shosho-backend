@@ -1,4 +1,18 @@
 # Fool Esanu's ShoSho Project
+# Contact Email
+alexander@vintagecreators.com
+
+sorici.vadim@gmail.com
+
+daniela.nastase10@gmail.com
+
+julianapatino19@gmail.com
+
+dianaahol78@gmail.com
+
+franklynepidi@gmail.com
+
+syazwanzahari21@gmail.com
 # Api Platform Base User System
 ## Documentation
 
